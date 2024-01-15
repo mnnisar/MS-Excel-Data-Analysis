@@ -1,2 +1,2 @@
 # MS-Excel-Data-Analysis
-It includes all projects performed analysis in MS Excel
+It includes projects of analysis in MS Excel with Dashboards
